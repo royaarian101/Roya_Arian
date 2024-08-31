@@ -1,5 +1,5 @@
 # Roya_Arian
-Ph.D. candidate in Biomedical Engineering, Faculty of Advanced Medical Technology, Isfahan University of Medical Sciences, Isfahan, Iran
+Ph.D. in Biomedical Engineering, Faculty of Advanced Medical Technology, Isfahan University of Medical Sciences, Isfahan, Iran
 ### Email
 royaarian101@gmail.com
 ### 🖥Skills
